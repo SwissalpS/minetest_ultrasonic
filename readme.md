@@ -7,9 +7,9 @@ Adds powerful and silent tools. (currently, just the one)
 # Screwdriver
 Crafting recipe:
 ```
-		| technic:rubber           | technic:control_logic_unit | technic:rubber           |
-		| mesecons_materials:fiber | technic:sonic_screwdriver  | mesecons_materials:fiber |
-		| wool:orange              | technic:battery            | wool:orange              |
+| technic:rubber           | technic:control_logic_unit | technic:rubber           |
+| mesecons_materials:fiber | technic:sonic_screwdriver  | mesecons_materials:fiber |
+| wool:orange              | technic:battery            | wool:orange              |
 ```
 Much like the sonic screwdriver from technic. This tool needs to be changed before
 use. It can rotate almost any node even chests containing items.
