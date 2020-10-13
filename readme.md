@@ -24,7 +24,7 @@ Hold special-key while using to rotate backwards.
 Settings with default values:
 ```
 # Maximum charge of ultrasonic screwdriver
-ultrasonic.screwdriver_max_charge		25252
+ultrasonic.screwdriver_max_charge	25252
 # Amount of charge used by each use
 ultrasonic.screwdriver_charge_per_use	92
 ```
