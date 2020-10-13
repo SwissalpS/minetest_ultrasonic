@@ -3,6 +3,7 @@ Ultrasonic mod for Minetest
 ===========================
 
 Adds powerful and silent tools. (currently, just the one)
+These tools work on frequencies we cannot hear. 
 
 # Screwdriver
 Crafting recipe:
